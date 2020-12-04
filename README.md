@@ -30,4 +30,5 @@ The C code can appear complicated because it relies extensively on the Intel MKL
 with that library, calls to its API can look arcane. The Python code (mostly contained in `inner.py`) *is* complicated
 because of the many different configurations of the simulator that I had to support. I apologize that it is
 not well documented. It was written for my personal use, and was never intended for use by others. For examples of
-clean, well-documented code, please see my other projects, e.g. `pubfig` or `connn`. 
+clean, well-documented code, please see my other projects, e.g. [pubfig](https://github.com/owenmackwood/pubfig) or 
+[connn](https://github.com/owenmackwood/connn). 
