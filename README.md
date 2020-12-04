@@ -1,5 +1,5 @@
 # simgen
-Generates, compiles, and runs C code to simulate recurrent neural networks in a configuration dependent manner.
+Generates, compiles, and runs a C program to simulate recurrent neural networks in a configuration dependent manner.
 
 ## What is this for?
 
